@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
-"""
-Rotate a 2D Matrix
-"""
+""" Rotate a 2D Matrix """
+
 
 def rotate_2d_matrix(matrix):
+
     """
     Given `n` x `n` 2D Matrix
     Rotate it 90 degrees clockwise

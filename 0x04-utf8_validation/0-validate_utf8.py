@@ -1,12 +1,11 @@
 #!/usr/bin/python3
-"""
-Defines a UTF-8 Validation function
-"""
+"""Defines a UTF-8 Validation function."""
 
 
 def validUTF8(data):
     """
-    UTF-8 Validation
+    UTF-8 Validation.
+    
     Args:
         data (list[int]): an array of characters represented as 1byte int
     Returns:

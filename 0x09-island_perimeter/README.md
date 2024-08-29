@@ -1,1 +1,1 @@
-/island create
+the island
